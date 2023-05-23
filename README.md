@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<h1 align="center">
+  <img src="images/nerd-fonts-logo.svg" alt="Nerd Fonts Logo" />
+</h1>
+<h2 align="center">
+  <img alt="Iconic font aggregator, collection, and patcher" src="images/project-subtitle-phrase.svg">
+</h2>
 <!--
 **Aidenclark/aidenclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
