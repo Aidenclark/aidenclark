@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/github_pic.png" alt="first slide" />
+  <img src="images/github_pic2.png" alt="first slide" />
 </h1>
 <!--
 **Aidenclark/aidenclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
